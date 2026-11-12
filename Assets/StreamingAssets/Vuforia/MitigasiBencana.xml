@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="kebakaran" size="0.200000 0.200000" />
+    <ImageTarget name="anginkencang" size="0.200000 0.200000" />
+    <ImageTarget name="longsor" size="0.200000 0.200000" />
+    <ImageTarget name="banjir" size="0.200000 0.200000" />
+    <ImageTarget name="letusan" size="0.200000 0.200000" />
+    <ImageTarget name="gempa" size="0.200000 0.200000" />
+    <ImageTarget name="tsunami" size="0.200000 0.200000" />
+  </Tracking>
+</QCARConfig>

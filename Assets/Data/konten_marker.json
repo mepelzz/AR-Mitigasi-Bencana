@@ -1,0 +1,494 @@
+{
+  "marker": [
+    {
+      "kunci": "gempa",
+      "judul": "Waspada Gempa Bumi",
+      "pengertian": "Gempa bumi adalah getaran bumi akibat tumbukan lempeng, aktivitas sesar, aktivitas gunung api, atau runtuhan batuan. Gempa tidak bisa diprediksi, jadi kita harus selalu siap.",
+      "sebelum": "Kenali tempat aman di rumah dan sekolah: bawah meja kokoh, sudut ruangan\nSepakati rencana keluarga dan titik kumpul di luar bangunan\nLatihan merunduk, lindungi kepala, dan berpegangan di bawah meja\nSiapkan tas siaga bencana dan amankan lemari atau rak tinggi",
+      "saat": "Merunduk, berlindung di bawah meja kokoh, dan berpegangan sampai guncangan berhenti\nLindungi kepala dan leher. Jauhi kaca, lampu gantung, dan rak\nTanpa meja, lindungi kepala dengan bantal atau tas, lalu ke sudut ruangan\nDi luar ruangan, menjauh dari gedung, tiang, dan pohon",
+      "sesudah": "Setelah guncangan berhenti, keluar tenang lewat jalur evakuasi. Jangan pakai lift\nPeriksa dirimu dan sekitar. Tolong yang terluka jika mampu\nWaspada gempa susulan. Jangan masuk bangunan rusak sebelum dinyatakan aman petugas\nIkuti informasi BMKG dan BPBD. Jangan percaya kabar yang tidak jelas sumbernya",
+      "fakta": "Sulawesi Utara tergolong rawan gempa dan tsunami, menurut catatan Badan Geologi. Latihan berlindung perlu dilakukan sejak sekarang.\n\nKesalahan umum: Lari keluar saat tanah masih berguncang. Menurut panduan BMKG, berlindung dulu di bawah meja, lalu keluar setelah gempa berhenti.",
+      "sumber": "BMKG, BNPB, Badan Geologi (PVMBG)",
+      "label1": "Sebelum",
+      "label2": "Saat",
+      "label3": "Sesudah",
+      "label4": "Fakta",
+      "soal": [
+        {
+          "pertanyaan": "Kamu di dalam ruangan dan tanah mulai berguncang. Apa yang dilakukan?",
+          "pilihan": [
+            "Berlari keluar lewat tangga secepatnya",
+            "Berdiri di dekat jendela untuk melihat keadaan",
+            "Merunduk, berlindung di bawah meja kokoh, dan berpegangan sampai guncangan berhenti",
+            "Naik lift ke lantai dasar"
+          ],
+          "benar": 2,
+          "penjelasan": "Berlindung di bawah meja melindungi dari benda yang jatuh."
+        },
+        {
+          "pertanyaan": "Guncangan sudah berhenti. Tindakan yang benar?",
+          "pilihan": [
+            "Memakai lift agar cepat keluar",
+            "Masuk lagi ke bangunan rusak untuk mengambil barang berharga",
+            "Tetap di dekat jendela kaca menunggu gempa susulan",
+            "Keluar dengan tenang lewat jalur evakuasi tanpa memakai lift"
+          ],
+          "benar": 3,
+          "penjelasan": "Lift berisiko macet saat ada gempa susulan atau listrik padam."
+        },
+        {
+          "pertanyaan": "Gempa terjadi saat kamu di luar ruangan. Apa yang dilakukan?",
+          "pilihan": [
+            "Berteduh di bawah pohon besar",
+            "Menjauh dari gedung, tiang, dan pohon",
+            "Berlindung di dekat tiang listrik",
+            "Masuk ke gedung tinggi terdekat"
+          ],
+          "benar": 1,
+          "penjelasan": "Gedung, tiang, dan pohon bisa roboh atau jatuh menimpa orang."
+        }
+      ]
+    },
+    {
+      "kunci": "tsunami",
+      "judul": "Waspada Tsunami",
+      "pengertian": "Tsunami adalah gelombang laut besar yang biasanya dipicu gempa kuat. Peringatan resmi tsunami hanya dikeluarkan oleh BMKG.",
+      "sebelum": "Kenali tanda alam tsunami: gempa kuat dan lama, air laut surut, gemuruh dari laut\nCari tahu jalur evakuasi tercepat ke tempat tinggi dari rumah dan sekolah\nKenali rambu peringatan bahaya tsunami di sekitarmu\nTentukan titik kumpul keluarga dan siapkan tas siaga bencana",
+      "saat": "Setelah gempa kuat, segera lari ke tempat tinggi. Jangan menunggu peringatan\nMenjauh dari pantai saat sirene atau pengumuman bahaya tsunami terdengar\nEvakuasi berjalan kaki, hindari jembatan. Jika macet, tinggalkan kendaraan\nJangan melihat ombak atau mengambil ikan saat air laut surut",
+      "sesudah": "Tetap di tempat tinggi karena gelombang berikutnya bisa lebih besar\nKembali hanya setelah ada pengumuman aman dari pihak berwenang\nWaspadai listrik, pipa gas, dan air genangan. Jauhi area yang rusak\nIkuti informasi BMKG dan BPBD. Berobat ke pos kesehatan jika terluka",
+      "fakta": "Pantai timur Sulawesi Utara tergolong rawan tsunami, menurut catatan Badan Geologi.\n\nKesalahan umum: Mendekati pantai untuk melihat air surut atau mengambil ikan yang terdampar. Gelombang berikutnya bisa lebih besar.",
+      "sumber": "BMKG, BNPB, Badan Geologi (PVMBG)",
+      "label1": "Sebelum",
+      "label2": "Saat",
+      "label3": "Sesudah",
+      "label4": "Fakta",
+      "soal": [
+        {
+          "pertanyaan": "Kamu di pesisir dan baru merasakan gempa kuat dan lama. Belum ada pengumuman. Apa yang dilakukan?",
+          "pilihan": [
+            "Menunggu sirene atau peringatan dulu",
+            "Mendekat ke pantai untuk melihat keadaan laut",
+            "Pulang dulu mengambil barang berharga",
+            "Segera menuju tempat tinggi"
+          ],
+          "benar": 3,
+          "penjelasan": "Gempa kuat dan lama adalah tanda alam, jadi tidak perlu menunggu pengumuman."
+        },
+        {
+          "pertanyaan": "Air laut tiba-tiba surut jauh dari biasanya. Tindakan yang benar?",
+          "pilihan": [
+            "Segera menjauh ke tempat tinggi",
+            "Mengambil ikan yang terdampar",
+            "Berjalan ke tengah dasar laut untuk melihat",
+            "Memotret dari jarak dekat"
+          ],
+          "benar": 0,
+          "penjelasan": "Air surut adalah tanda alam tsunami, dan gelombang bisa datang segera."
+        },
+        {
+          "pertanyaan": "Gelombang pertama kecil sudah lewat dan kamu sudah di tempat tinggi. Apa yang dilakukan?",
+          "pilihan": [
+            "Turun ke pantai untuk memeriksa kerusakan",
+            "Pulang ke rumah di tepi pantai",
+            "Tetap di tempat tinggi sampai ada pengumuman aman dari pihak berwenang",
+            "Mendekat ke pantai untuk menolong barang"
+          ],
+          "benar": 2,
+          "penjelasan": "Gelombang berikutnya bisa lebih besar dari yang pertama."
+        }
+      ]
+    },
+    {
+      "kunci": "gunungapi",
+      "judul": "Waspada Gunung Api",
+      "pengertian": "Letusan gunung api adalah keluarnya material dari perut bumi, seperti abu, batu pijar, awan panas, dan lahar. Status gunung ditetapkan PVMBG.",
+      "sebelum": "Pantau status gunung lewat MAGMA Indonesia (PVMBG). Patuhi rekomendasi jarak aman\nSiapkan masker, kacamata pelindung, senter, dan tas siaga tahan air\nKetahui rencana evakuasi dan jalur alternatif jika dampak meluas\nJangan mendaki gunung berstatus Waspada, Siaga, atau Awas",
+      "saat": "Tinggalkan zona bahaya bila diminta, menuju shelter yang telah ditentukan\nHindari lembah dan aliran sungai karena bisa dilalui lahar\nPakai masker, kacamata pelindung, baju lengan panjang, dan penutup kepala\nSaat abu turun, masuk ruangan dan tutup hidung dengan masker atau kain basah",
+      "sesudah": "Letusan berhenti belum tentu aman. Lahar masih mungkin terjadi saat hujan deras\nHindari sungai yang berhulu di gunung saat hujan deras\nIkuti arahan resmi sebelum kembali ke rumah\nJaga kebersihan di pengungsian. Ikuti informasi resmi, bukan pesan berantai",
+      "fakta": "Erupsi Gunung Ruang (Sitaro) pada April 2024 membuat ribuan warga mengungsi, dan status Gunung Ruang dan Awu dinaikkan ke Siaga.\n\nKesalahan umum: Mengira sudah aman saat letusan berhenti, lalu kembali mendekat. Lahar masih bisa terjadi saat hujan deras.",
+      "sumber": "PVMBG (MAGMA Indonesia), BNPB",
+      "label1": "Sebelum",
+      "label2": "Saat",
+      "label3": "Sesudah",
+      "label4": "Fakta",
+      "soal": [
+        {
+          "pertanyaan": "Gunung yang ingin kamu daki berstatus Siaga. Apa yang dilakukan?",
+          "pilihan": [
+            "Mendaki dengan membawa masker",
+            "Mendaki lewat jalur yang berbeda",
+            "Mendaki hanya sampai setengah jalan",
+            "Tidak mendaki dan mengikuti rekomendasi PVMBG"
+          ],
+          "benar": 3,
+          "penjelasan": "Gunung berstatus Waspada, Siaga, atau Awas tidak boleh didaki."
+        },
+        {
+          "pertanyaan": "Abu vulkanik turun di tempat tinggalmu. Apa yang dilakukan?",
+          "pilihan": [
+            "Tetap beraktivitas di luar tanpa penutup",
+            "Masuk ruangan dan memakai masker atau kain basah",
+            "Membuka jendela agar abu tidak menumpuk",
+            "Berlindung di lembah sungai"
+          ],
+          "benar": 1,
+          "penjelasan": "Masker atau kain basah melindungi pernapasan dari abu."
+        },
+        {
+          "pertanyaan": "Letusan sudah berhenti, tetapi hujan deras turun di sekitar gunung. Apa yang dilakukan?",
+          "pilihan": [
+            "Menghindari sungai yang berhulu di gunung",
+            "Membersihkan sungai sambil berjalan di dalamnya",
+            "Berkemah di tepi sungai",
+            "Pulang ke rumah di tepi sungai"
+          ],
+          "benar": 0,
+          "penjelasan": "Lahar masih bisa mengalir saat hujan deras walau letusan berhenti."
+        }
+      ]
+    },
+    {
+      "kunci": "banjir",
+      "judul": "Waspada Banjir",
+      "pengertian": "Banjir adalah meluapnya air ke daratan yang biasanya kering, sering akibat hujan deras. Banjir bandang datang cepat dan membawa lumpur.",
+      "sebelum": "Kenali jalur air dan daerah rawan banjir di sekitar rumah\nPahami tingkat peringatan banjir (Siaga I sampai IV) dan tindakannya\nSepakati titik kumpul keluarga dan rute ke tempat yang lebih tinggi\nKetahui cara mematikan listrik, gas, dan air. Siapkan tas siaga",
+      "saat": "Pantau informasi banjir dan segera evakuasi ke tempat yang lebih tinggi\nMatikan listrik dan cabut peralatan jika ada instruksi\nJangan berjalan melawan arus deras. Jika harus lewat air, cek pijakan dengan tongkat\nJangan mengemudi di area banjir. Jika air naik, tinggalkan mobil",
+      "sesudah": "Hindari air banjir dan area yang baru surut: ada risiko listrik dan tanah ambles\nKembali ke rumah hanya sesuai perintah pihak berwenang\nCuci tangan dengan sabun jika terkena air banjir. Buang makanan yang terkena air\nBersihkan lumpur dan sarang nyamuk. Periksa kesehatan jika merasa sakit",
+      "fakta": "Banjir bandang dan longsor Manado, 15 Januari 2014, dipicu hujan deras sejak 14 Januari. Laporan awal mencatat lebih dari 2.000 orang mengungsi.\n\nKesalahan umum: Berjalan atau berkendara menembus banjir. Arus deras, listrik, dan tanah ambles bisa membahayakan.",
+      "sumber": "BNPB, BMKG",
+      "label1": "Sebelum",
+      "label2": "Saat",
+      "label3": "Sesudah",
+      "label4": "Fakta",
+      "soal": [
+        {
+          "pertanyaan": "Air naik cepat dan ada instruksi evakuasi. Apa yang dilakukan?",
+          "pilihan": [
+            "Menunggu di lantai dasar sampai air masuk",
+            "Mengemudi menembus genangan",
+            "Pindah ke tempat yang lebih tinggi",
+            "Berenang menyeberangi arus"
+          ],
+          "benar": 2,
+          "penjelasan": "Tempat tinggi menjauhkan dari air yang terus naik."
+        },
+        {
+          "pertanyaan": "Kamu harus melewati genangan air. Tindakan yang benar?",
+          "pilihan": [
+            "Berlari melawan arus deras agar cepat",
+            "Memeriksa pijakan dengan tongkat dan tidak melawan arus deras",
+            "Berjalan sambil menutup mata",
+            "Melompat ke bagian yang terlihat dangkal"
+          ],
+          "benar": 1,
+          "penjelasan": "Pijakan bisa berlubang atau licin di bawah air keruh."
+        },
+        {
+          "pertanyaan": "Air banjir mulai surut. Apa yang dilakukan?",
+          "pilihan": [
+            "Langsung pulang dan menyalakan listrik",
+            "Masuk ke area yang baru surut untuk membersihkan",
+            "Kembali hanya sesuai perintah pihak berwenang",
+            "Mencicipi air untuk mengecek kebersihannya"
+          ],
+          "benar": 2,
+          "penjelasan": "Area yang baru surut berisiko listrik dan tanah ambles."
+        }
+      ]
+    },
+    {
+      "kunci": "longsor",
+      "judul": "Waspada Tanah Longsor",
+      "pengertian": "Tanah longsor adalah bergeraknya tanah atau batuan menuruni lereng. Hujan deras yang lama membuat lereng jenuh air dan mudah longsor.",
+      "sebelum": "Jangan membangun rumah di lereng curam atau di bawah tebing\nPertahankan pohon di lereng. Jangan menebang sembarangan\nPastikan saluran air lancar dan tidak mengarah langsung ke lereng\nKenali tanda: retakan tanah, pohon atau tiang miring, rembesan air baru",
+      "saat": "Jika terdengar gemuruh atau tanah bergerak, segera menjauh dari arah longsoran\nJangan mendekati area yang retak atau bergerak\nHindari sungai dan lembah karena longsor sering diikuti aliran lumpur\nJika tak sempat lari, lindungi kepala dan berlindung di bawah meja kokoh",
+      "sesudah": "Jangan kembali ke area longsor sebelum petugas menyatakannya aman\nWaspadai longsor susulan dan retakan tanah baru\nLaporkan korban hilang atau terjebak ke BPBD atau Basarnas\nBeri pertolongan pertama jika mampu. Ikuti arahan petugas ke posko",
+      "fakta": "Pada banjir bandang Manado 2014, laporan awal menyebut longsor menimbun 10 rumah di Desa Kembes Satu, Tombulu, Minahasa.\n\nKesalahan umum: Mengabaikan tanda awal (retakan, gemuruh, pohon miring) atau kembali ke rumah terlalu cepat. Longsor susulan masih mungkin.",
+      "sumber": "PVMBG (Badan Geologi), BNPB",
+      "label1": "Sebelum",
+      "label2": "Saat",
+      "label3": "Sesudah",
+      "label4": "Fakta",
+      "soal": [
+        {
+          "pertanyaan": "Kamu mendengar gemuruh dan tanah mulai bergerak. Apa yang dilakukan?",
+          "pilihan": [
+            "Mendekat untuk melihat",
+            "Berlari ke arah sungai di lembah",
+            "Diam di rumah",
+            "Segera menjauh dari arah longsoran"
+          ],
+          "benar": 3,
+          "penjelasan": "Menjauh dari jalur longsor menyelamatkan nyawa. Lembah dan sungai sering diikuti aliran lumpur."
+        },
+        {
+          "pertanyaan": "Setelah hujan lama, tanah di lereng retak dan pohon mulai miring. Apa yang dilakukan?",
+          "pilihan": [
+            "Menjauh dan tidak mendekati area yang retak",
+            "Menutup retakan dengan tanah sambil berdiri di atasnya",
+            "Tidur di rumah di bawah lereng",
+            "Menebang pohon yang miring"
+          ],
+          "benar": 0,
+          "penjelasan": "Retakan dan pohon miring adalah tanda awal gerakan tanah."
+        },
+        {
+          "pertanyaan": "Longsor sudah berhenti. Kapan boleh kembali?",
+          "pilihan": [
+            "Segera, karena longsor sudah selesai",
+            "Setelah petugas menyatakan area aman",
+            "Setelah beberapa jam tanpa hujan",
+            "Saat tetangga sudah kembali"
+          ],
+          "benar": 1,
+          "penjelasan": "Longsor susulan dan retakan baru masih mungkin terjadi."
+        }
+      ]
+    },
+    {
+      "kunci": "angin",
+      "judul": "Waspada Angin Kencang",
+      "pengertian": "Angin kencang adalah angin berkecepatan tinggi yang bisa merobohkan pohon, baliho, dan atap rumah. Peringatan dini cuaca dikeluarkan BMKG.",
+      "sebelum": "Pantau peringatan dini cuaca BMKG lewat situs, @infoBMKG, atau aplikasi InfoBMKG\nPeriksa atap, pohon besar, dan benda tinggi di sekitar rumah\nHindari berlayar di perairan yang terdampak cuaca ekstrem\nJauhi area rawan: tepi pantai, lembah sungai, dan dekat pohon mudah tumbang",
+      "saat": "Tutup pintu dan jendela. Matikan listrik dan peralatan elektronik\nKumpulkan anggota keluarga di tengah ruangan\nJauhi tiang listrik dan papan reklame. Jangan berlindung di bawah jembatan\nJika berkendara, tepikan kendaraan dan masuk ke dalam bangunan",
+      "sesudah": "Tetap pantau informasi BMKG. Cuaca ekstrem bisa disertai hujan lebat\nWaspadai banjir, banjir bandang, dan tanah longsor susulan\nJauhi pohon, tiang, dan kabel listrik yang roboh atau miring\nPeriksa keluarga dan tetangga. Laporkan kerusakan ke BPBD",
+      "fakta": "BMKG pernah mengeluarkan peringatan dini hujan lebat dan angin kencang untuk belasan kabupaten dan kota di Sulut, termasuk Manado dan Bitung (April 2025).\n\nKesalahan umum: Berteduh di bawah pohon, baliho, atau jembatan saat angin kencang.",
+      "sumber": "BMKG, BNPB",
+      "label1": "Sebelum",
+      "label2": "Saat",
+      "label3": "Sesudah",
+      "label4": "Fakta",
+      "soal": [
+        {
+          "pertanyaan": "Angin kencang datang saat kamu di dalam rumah. Apa yang dilakukan?",
+          "pilihan": [
+            "Membuka semua jendela",
+            "Berdiri dekat jendela untuk mengawasi",
+            "Menutup pintu dan jendela, mematikan listrik, dan berkumpul di tengah ruangan",
+            "Naik ke atap memeriksa genteng"
+          ],
+          "benar": 2,
+          "penjelasan": "Tengah ruangan paling jauh dari kaca dan benda yang bisa terlempar."
+        },
+        {
+          "pertanyaan": "Angin kencang datang saat kamu di luar. Tempat berteduh yang benar?",
+          "pilihan": [
+            "Di bawah pohon besar",
+            "Di bawah baliho",
+            "Di bawah jembatan",
+            "Di dalam bangunan yang kokoh"
+          ],
+          "benar": 3,
+          "penjelasan": "Pohon, baliho, dan jembatan bisa tumbang atau roboh."
+        },
+        {
+          "pertanyaan": "Angin sudah reda dan ada kabel listrik terjuntai di jalan. Apa yang dilakukan?",
+          "pilihan": [
+            "Menjauh dan tidak menyentuhnya",
+            "Memindahkan kabel dengan tongkat besi",
+            "Mendekat untuk memotretnya",
+            "Berjalan di bawah kabel agar cepat"
+          ],
+          "benar": 0,
+          "penjelasan": "Kabel yang roboh bisa masih teraliri listrik."
+        }
+      ]
+    },
+    {
+      "kunci": "kebakaran",
+      "judul": "Waspada Kebakaran Permukiman",
+      "pengertian": "Kebakaran permukiman adalah api yang membakar rumah di lingkungan tempat tinggal. Di permukiman padat, api cepat menjalar ke rumah lain.",
+      "sebelum": "Periksa instalasi listrik rumah. Awasi kompor dan peralatan elektronik\nJangan membakar sampah di dekat rumah, terutama saat angin kencang\nSiapkan alat pemadam api ringan (APAR) dan kenali jalur keluar rumah\nSimpan nomor pemadam kebakaran dan nomor darurat 112",
+      "saat": "Teriak atau bunyikan kentongan untuk memperingatkan warga sekitar\nHubungi pemadam kebakaran segera lewat 113 atau 112\nUtamakan lansia, anak-anak, dan penyandang disabilitas\nPadamkan api kecil dengan APAR atau karung basah. Jangan siram api listrik dengan air",
+      "sesudah": "Periksa korban luka. Beri pertolongan pertama dan cari pengungsian sementara\nPastikan area yang masih berasap tidak menyala kembali\nSingkirkan material berbahaya. Bersihkan puing dengan hati-hati\nPeriksa instalasi listrik sebelum rumah dipakai lagi",
+      "fakta": "[ISI SETELAH VERIFIKASI] Contoh kejadian kebakaran permukiman di Manado, dari data Dinas Pemadam Kebakaran atau BPBD Kota Manado.\n\nKesalahan umum: Menyiram api listrik dengan air, atau mencoba memadamkan api besar sendirian sebelum memanggil pemadam.",
+      "sumber": "BNPB, Dinas Pemadam Kebakaran",
+      "label1": "Sebelum",
+      "label2": "Saat",
+      "label3": "Sesudah",
+      "label4": "Fakta",
+      "soal": [
+        {
+          "pertanyaan": "Api mulai menjalar di rumah dekat rumahmu. Apa yang dilakukan?",
+          "pilihan": [
+            "Menunggu sampai apinya besar",
+            "Memperingatkan warga dan menghubungi pemadam kebakaran",
+            "Menyiram api dengan seember bensin",
+            "Masuk ke rumah itu untuk mengambil barang"
+          ],
+          "benar": 1,
+          "penjelasan": "Di permukiman padat, api cepat menjalar, jadi warga dan pemadam harus segera tahu."
+        },
+        {
+          "pertanyaan": "Api kecil muncul dari korsleting listrik. Cara memadamkan yang benar?",
+          "pilihan": [
+            "Disiram air langsung",
+            "Ditutup dengan kain tebal basah sambil mendekat",
+            "Menggunakan APAR",
+            "Ditiup"
+          ],
+          "benar": 2,
+          "penjelasan": "Air menghantarkan listrik dan berbahaya untuk api listrik."
+        },
+        {
+          "pertanyaan": "Saat mengevakuasi orang dari rumah terbakar, siapa yang diutamakan?",
+          "pilihan": [
+            "Pemilik rumah",
+            "Lansia, anak-anak, dan penyandang disabilitas",
+            "Yang paling dekat pintu",
+            "Barang berharga dulu"
+          ],
+          "benar": 1,
+          "penjelasan": "Kelompok rentan paling sulit menyelamatkan diri sendiri."
+        }
+      ]
+    },
+    {
+      "kunci": "tas",
+      "judul": "Siapkan Tas Siaga",
+      "pengertian": "Tas siaga berisi kebutuhan dasar untuk bertahan sekitar tiga hari sampai bantuan datang. Siapkan satu tas untuk setiap anggota keluarga.",
+      "sebelum": "Makanan dan minuman: air kemasan, makanan tahan lama, makanan khusus bayi atau lansia.\nKesehatan: obat pribadi, P3K, masker, perlengkapan mandi.\nDokumen: KK, ijazah, akta, buku tabungan dalam plastik kedap air, plus uang tunai.",
+      "saat": "Ransel tahan air dan pakaian ganti untuk tiga hari.\nSelimut ringan dan jas hujan.\nSenter, baterai cadangan, dan peluit.\nPonsel, charger, power bank, radio, dan daftar nomor penting ditulis tangan.",
+      "sesudah": "Simpan tas di tempat mudah dijangkau, dekat pintu keluar.\nPastikan semua anggota keluarga tahu lokasi tas.\nPeriksa isi tas berkala. Ganti makanan dan obat yang kedaluwarsa.",
+      "fakta": "Kesalahan umum: menyiapkan tas sekali lalu tidak pernah dicek lagi, sehingga makanan atau obat sudah kedaluwarsa saat dibutuhkan.",
+      "sumber": "BNPB, Kemenkes",
+      "label1": "Isi Tas",
+      "label2": "Perlengkapan",
+      "label3": "Menyimpan",
+      "label4": "Tips",
+      "soal": [
+        {
+          "pertanyaan": "Bagaimana cara menyimpan dokumen penting di tas siaga?",
+          "pilihan": [
+            "Dimasukkan plastik kedap air",
+            "Dibiarkan lepas di kantong tas",
+            "Disimpan di lemari rumah saja",
+            "Dititipkan ke tetangga"
+          ],
+          "benar": 0,
+          "penjelasan": "Plastik kedap air menjaga dokumen tetap kering."
+        },
+        {
+          "pertanyaan": "Kapan tas siaga diperiksa?",
+          "pilihan": [
+            "Hanya saat bencana terjadi",
+            "Cukup sekali saat dibuat",
+            "Berkala, lalu ganti makanan dan obat yang kedaluwarsa",
+            "Setiap lima tahun"
+          ],
+          "benar": 2,
+          "penjelasan": "Makanan dan obat yang kedaluwarsa tidak berguna saat dibutuhkan."
+        },
+        {
+          "pertanyaan": "Di mana sebaiknya tas siaga disimpan?",
+          "pilihan": [
+            "Di gudang paling dalam",
+            "Di tempat mudah dijangkau dekat pintu keluar",
+            "Di loteng tertinggi",
+            "Dipinjamkan ke tetangga"
+          ],
+          "benar": 1,
+          "penjelasan": "Tas harus bisa diambil cepat saat harus keluar rumah."
+        }
+      ]
+    },
+    {
+      "kunci": "evakuasi",
+      "judul": "Kenali Jalur Evakuasi",
+      "pengertian": "Jalur evakuasi adalah rute menuju tempat aman. Titik kumpul adalah lokasi berkumpul yang sudah ditentukan.",
+      "sebelum": "Cari rambu berwarna dasar hijau dengan gambar dan tulisan putih.\nRambu jalur evakuasi menunjukkan arah menuju tempat aman. Ikuti arah panahnya.\nRambu titik kumpul menunjukkan tempat berkumpul yang sudah ditentukan.\nRambu tempat pengungsian menunjukkan lokasi tujuan setelah keluar dari kawasan bahaya.",
+      "saat": "Tanya kelurahan, desa, atau BPBD: di mana jalur evakuasi dan titik kumpul terdekat.\nJalani rute dari rumah, sekolah, dan tempat kerja ke titik kumpul.\nSiapkan jalur alternatif jika jalur utama terblokir.\nSepakati apa yang dilakukan jika anggota keluarga terpisah.\nCatat nomor BPBD dan nomor darurat. Simpan di tas siaga.\nLatihan bersama secara berkala.",
+      "sesudah": "Rambu peringatan bahaya tsunami berbeda dari rambu evakuasi. Rambu itu menandai wilayah yang berpotensi terdampak tsunami.\nKesalahan umum: baru mencari tahu jalur evakuasi dan titik kumpul setelah bencana terjadi.",
+      "fakta": "Lokasi titik kumpul bisa berbeda untuk gempa, tsunami, dan gunung api. Tanyakan peta evakuasi resmi ke BPBD kabupaten atau kota.",
+      "sumber": "BNPB (Peraturan Kepala BNPB No. 7 Tahun 2015), BPBD",
+      "label1": "Rambu",
+      "label2": "Rencana",
+      "label3": "Catatan",
+      "label4": "Lokasi",
+      "soal": [
+        {
+          "pertanyaan": "Kamu menemukan rambu jalur evakuasi dengan tanda panah. Apa yang dilakukan?",
+          "pilihan": [
+            "Mengikuti arah panah menuju tempat aman",
+            "Berjalan berlawanan arah panah",
+            "Mengabaikannya",
+            "Mencabut rambu dan membawanya"
+          ],
+          "benar": 0,
+          "penjelasan": "Panah menunjukkan arah menuju tempat aman."
+        },
+        {
+          "pertanyaan": "Kapan sebaiknya keluarga mencari tahu jalur evakuasi dan titik kumpul?",
+          "pilihan": [
+            "Setelah bencana terjadi",
+            "Sebelum bencana, dengan bertanya ke kelurahan atau BPBD",
+            "Saat sudah ada di pengungsian",
+            "Tidak perlu, cukup mengikuti orang lain"
+          ],
+          "benar": 1,
+          "penjelasan": "Jalur dan titik kumpul harus sudah dikenal sebelum keadaan darurat."
+        },
+        {
+          "pertanyaan": "Keluarga terpisah saat evakuasi. Apa yang dilakukan?",
+          "pilihan": [
+            "Menunggu di tempat masing-masing",
+            "Pergi ke tempat yang berbeda-beda",
+            "Menuju titik kumpul dan mengikuti kesepakatan keluarga",
+            "Kembali ke rumah masing-masing"
+          ],
+          "benar": 2,
+          "penjelasan": "Kesepakatan dan titik kumpul membantu keluarga bertemu kembali."
+        }
+      ]
+    },
+    {
+      "kunci": "info",
+      "judul": "Sumber Informasi Resmi",
+      "pengertian": "Informasi bencana yang sah hanya datang dari lembaga berwenang. Cek kanal resmi sebelum percaya atau membagikan kabar.",
+      "sebelum": "BMKG: bmkg.go.id, @infoBMKG, aplikasi resmi BMKG. Untuk gempa, potensi tsunami, dan cuaca.\nBNPB: bnpb.go.id, @bnpb_indonesia, call center 117.\nPVMBG: aplikasi MAGMA Indonesia. Untuk status gunung api dan gerakan tanah.\nBPBD Sulut dan BPBD kab/kota: arahan evakuasi dan posko setempat.",
+      "saat": "112: panggilan darurat nasional.\n110: kepolisian.\n113: pemadam kebakaran.\n115: Basarnas.\n117: BNPB.\n118 / 119: ambulans.\n123: PLN (gangguan listrik).",
+      "sesudah": "Cek apakah ada nama lembaga, kontak, dan petugas yang bisa dihubungi.\nCocokkan dengan kanal resmi BMKG, BNPB, PVMBG, atau BPBD.\nCurigai kabar yang menyebut waktu pasti gempa. Belum ada yang bisa memprediksinya.\nWaspadai pesan yang mencatut nama lembaga resmi.\nJangan teruskan pesan sebelum dicek ke sumber resmi.",
+      "fakta": "Badan Geologi pernah membantah kabar bahwa Pulau Tagulandang (Sitaro) akan tenggelam akibat erupsi Gunung Ruang.\n\nKesalahan umum: langsung membagikan pesan berantai di grup tanpa mengecek sumbernya.",
+      "sumber": "BMKG, BNPB, PVMBG, BPBD Sulut",
+      "label1": "Kanal Resmi",
+      "label2": "Nomor Darurat",
+      "label3": "Cek Hoaks",
+      "label4": "Contoh Lokal",
+      "soal": [
+        {
+          "pertanyaan": "Kamu menerima pesan berantai: \"Gempa besar akan terjadi besok pukul 10.00.\" Apa yang dilakukan?",
+          "pilihan": [
+            "Meneruskan ke semua grup",
+            "Mengecek ke kanal resmi BMKG dan tidak meneruskannya",
+            "Mengungsi seharian tanpa mengecek",
+            "Membalas dengan tanggal dan jam yang lain"
+          ],
+          "benar": 1,
+          "penjelasan": "Gempa belum bisa diprediksi, jadi waktu pasti adalah tanda hoaks."
+        },
+        {
+          "pertanyaan": "Dari mana peringatan resmi tsunami berasal?",
+          "pilihan": [
+            "Grup pesan keluarga",
+            "Akun media sosial yang ramai pengikut",
+            "BMKG",
+            "Berita dari teman di pesisir"
+          ],
+          "benar": 2,
+          "penjelasan": "Peringatan tsunami resmi hanya dikeluarkan oleh BMKG."
+        },
+        {
+          "pertanyaan": "Sebuah pesan bencana beredar di grup tanpa nama sumber. Apa yang dilakukan sebelum meneruskan?",
+          "pilihan": [
+            "Meneruskan agar semua waspada",
+            "Meneruskan jika sudah banyak yang membagikan",
+            "Meneruskan jika ada foto",
+            "Mengecek dulu ke kanal resmi lembaga berwenang"
+          ],
+          "benar": 3,
+          "penjelasan": "Pesan tanpa sumber yang jelas bisa menyesatkan dan menimbulkan kepanikan."
+        }
+      ]
+    }
+  ]
+}

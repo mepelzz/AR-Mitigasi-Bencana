@@ -1,0 +1,7 @@
+HASIL BUILD: Failed
+Error: 2, Warning: 1
+Waktu: 00:00:03.2843621
+[Build player] Error building Player: BuildFailedException: Vuforia Engine requires a Minimum Android API level of Android 10.0 (API Level 29). Please set the Minimum API Level to "Android 10.0 (API Level 29)" or above in the Player Settings.
+
+[Preprocess Player] BuildFailedException: Vuforia Engine requires a Minimum Android API level of Android 10.0 (API Level 29). Please set the Minimum API Level to "Android 10.0 (API Level 29)" or above in the Player Settings.
+
